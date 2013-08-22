@@ -1,9 +1,5 @@
 {
   "name": "upstage-variables",
   "main": "variables.less",
-  "version": "0.1.0",
-  "dependencies": {
-    "mixins": "*",
-    "gradient-mixins": "*"
-  }
+  "version": "0.1.1"
 }

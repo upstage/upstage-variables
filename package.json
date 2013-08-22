@@ -1,6 +1,6 @@
 {
   "name": "upstage-variables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "> Base LESS variables for the Upstage component library.",
   "author": {
     "name": "Jon Schlinkert",
