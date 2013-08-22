@@ -1,0 +1,23 @@
+{
+  "name": "upstage-variables",
+  "version": "0.1.0",
+  "description": "> Base LESS variables for the Upstage component library.",
+  "author": {
+    "name": "Jon Schlinkert",
+    "name": "https://github.com/jonschlinkert"
+  },
+  "main": "variables.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upstage/upstage-variables.git"
+  },
+  "bugs": {
+    "url": "https://github.com/upstage/upstage-variables/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/upstage/upstage-variables/blob/master/LICENSE-MIT"
+    }
+  ]
+}
